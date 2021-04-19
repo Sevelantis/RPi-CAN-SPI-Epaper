@@ -1,0 +1,1 @@
+e-Paper/RaspberryPi_JetsonNano/python/lib/waveshare_epd/epdconfig.py
